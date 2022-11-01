@@ -1,6 +1,0 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'Billy v.048'
-theme = 'hugo-coder'
-# theme = 'hugo-orbit-theme'
-# theme = ['hugo-theme-anubis', 'resume']
