@@ -8,6 +8,33 @@
     <language>en</language>
     <lastBuildDate>Tue, 01 Nov 2022 16:00:57 -0500</lastBuildDate><atom:link href="http://yesmynameisbilly.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Contact</title>
+      <link>http://yesmynameisbilly.github.io/contact/</link>
+      <pubDate>Tue, 01 Nov 2022 16:34:53 -0500</pubDate>
+      
+      <guid>http://yesmynameisbilly.github.io/contact/</guid>
+      <description>Place holder for contact page</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://yesmynameisbilly.github.io/resume/</link>
+      <pubDate>Tue, 01 Nov 2022 16:34:12 -0500</pubDate>
+      
+      <guid>http://yesmynameisbilly.github.io/resume/</guid>
+      <description>Place holder for resume page</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://yesmynameisbilly.github.io/projects/</link>
+      <pubDate>Tue, 01 Nov 2022 16:30:51 -0500</pubDate>
+      
+      <guid>http://yesmynameisbilly.github.io/projects/</guid>
+      <description>Place holder for projects page</description>
+    </item>
+    
+    <item>
       <title>Initial Post</title>
       <link>http://yesmynameisbilly.github.io/posts/initpost/</link>
       <pubDate>Tue, 01 Nov 2022 16:00:57 -0500</pubDate>
