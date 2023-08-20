@@ -1,0 +1,47 @@
+  # section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Linux administrator and systems engineer for more than 20 years. Managed bare metal, virtual, and cloud servers in environments of several hundred to tens of thousands of servers. Comfortable writing large, complex shell scripts in Bash and Korn shells."
+
+- name: DevOps
+  logo: /images/sections/skills/devops.png
+  summary: "5 plus years of experience with modern DevOps methodologies and years more automating server deployments, patching, and apllication deployments. Experience with tools, Jenkins(Hudson), Maven, Bamboo, Artifactory, Ansible, Puppet, Chef, Terraform, Vagrant, Packer, GitHub, GitLab, Gitlab Runner, BitBucket, Azure Devops."
+
+- name: Cloud Computing
+  logo: /images/sections/skills/cloud-computing.png
+  summary: "Years of Experience with all three of the major cloud platfortms, AWS, GCP, and Azure. I have experience building infrastructure from scratch, maintaining and expanding large environments, and migrating from physical to cloud and migrating from one cloud platform to another. Years of experience per vendor: AWS 6 years, Azure 5 years, GCP 2 years"
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Experience containerizing applications and supporting Docker environments. Training in Docker and Rancher."
+  url: "https://www.docker.com/"
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "10 years of experience with git use for source control. Mostly, use Github but also, have experience in working with GitLab, BitBucket, and Stash."
+  url: "https://git-scm.com/"
+
+- name: Coding
+  logo: /images/sections/skills/programming.png
+  summary: "University major in Software Engineering (1998-2000), working in Visual Basic, Java, C++, Javascript, VBScript, Perl. Years of experience using bash and korn shell scripting for automation, monitoring, logging, and managing servers. Have some experience in Powershell, Python, Ruby, Rust as well. I have used each of them to some extent in my carrer."
+
+# - name: Prometheus
+#   logo: /images/sections/skills/prometheus.png
+#   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+#   url: "https://prometheus.io/"
+
+# - name: C++
+#   logo: /images/sections/skills/c++.png
+#   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."

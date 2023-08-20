@@ -1,0 +1,112 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: PNC Bank (Contract)
+    url: "https://www.pncbank.com"
+    location: Remote
+    # company overview
+    overview: Worked in the enterprise Ansible group, supporting Ansible AWX instances company wide
+  positions:
+  - designation: Systems Engineer 4
+    start: Oct 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Enterprise Ansible team supporting Ansible (AWX) deployments, operations, and training
+    - Creating/Maintaining Ansible playbooks
+    - RHEL 7/8, Ansible, AWX, Docker, OpenShift, PostgreSQL, Jenkins  
+
+- company:
+    name: Orion Advisors (Contract)
+    url: "https://orion.com/"
+    location: Remote
+    overview: Project based work, migrating legacy applications physical and virtual to Azure
+  positions:
+  - designation: Senior Devops Engineer
+    start: March 2022
+    end: June 2022
+    responsibilities:
+    - Projects migrating legacy applications to AWS using Terraform/Azure DevOps pipeline
+    - AWS, Terraform, Windows Server 2016, Azure DevOps, git, Docker
+
+- company:
+    name: Acxiom (Contract)
+    url: "https://www.acxiom.com/"
+    location: Remote
+    overview: Project based work, bringing VMware environment into complaiance and migrating applications to AWS
+  positions: 
+  - designation: Software Developer/DevOps Engineer
+    start: Sept 2021
+    end: Jan 2022
+    responsibilities:
+    - Project to bring legacy VMware environment into compliance
+    - Project to migrate several legacy apps from VMware to AWS
+    - AWS, VMWare, Terraform, Ansible, CloudFormation, Stash
+
+- company:
+    name: Arizona State University
+    url: "https://www.asu.edu"
+    location: Hybrid (Tempe, AZ / Remote)
+    overview: DevOps group supporting server and application pipelines in AWS. Participated in several migration projects and building net new infrastructure in GCP
+  positions: 
+  - designation: Senior DevOps Engineer
+    start: Aug 2020
+    end: Sept 2021
+    responsibilities:
+    - Supported cloud infrastructure AWS, GCP, Patching
+    - Created new, maintained existing, CD pipelines
+    - Supported GCP migration for Vulcan project, university research project to monitor coral reefs worldwide
+    - AWS, GCP, Terraform, Ansible, AWS Linux, Red Hat 6.x, 7.x, Docker, Kubernetes, GitHub, Splunk
+
+- company:
+    name: AMPS
+    url: "https://www.amps.com/"
+    location: Hybrid (Phoenix, AZ / Remote)
+    overview: Project based work, completing build out of Azure Kubernetes cluster
+  positions:
+  - designation: Senior Devops Engineer
+    start: May 2020
+    end: Aug 2020
+    responsibilities:
+    - Projects migrating legacy applications to AWS using Terraform/Azure DevOps pipeline
+    - AWS, Terraform, Windows Server 2016, Azure DevOps, git, Docker
+
+- company:
+    name: CGI (Contract)
+    url: "https://www.cgi.com/"
+    location: Hybrid (Tempe, AZ / Remote)
+    overview: 
+  positions:
+  - designation: Senior Cloud DevOps Engineer
+    start: Nov 2019
+    end: May 2020
+    responsibilities:
+    - Supporting existing client cloud environments and CD/CI pipelines
+    - Migrating client applications to AWS, building and supporting new pipelines
+    - AWS, Azure, VMWare, Salt, Jenkins, Ansible, Docker, Kubernetes, Rancher, SumoLogic
+
+- company:
+    name: Honeywell Aerospace (Contract)
+    url: "https://aerospace.honeywell.com/"
+    location: Tempe, AZ
+    overview: Project based work, assisting teams with automation and compliance, Oracle RAC to Oracle ExaCC migration
+  positions:
+  - designation: Principal Systems Engineer
+    start: Feb 2019
+    end: Nov 2010
+    responsibilities:
+    - Automated ISO creation of RHEL 7.x, automated Nagios monitoring additions, deletions, disabling
+    - Created hardened Vagrant box from standard RHEL ISO for testing purposes, used by multiple teams
+    - Linux SME for Oracle migration project, from individual physical servers to Exacc clusters, 8x8x2
+    - Red Hat 7.5-8.0, Ubuntu 18.10, Git, GitLFS, GitLab CE, Packer, Vagrant, Chef, Ruby, Oracle ExaCC
