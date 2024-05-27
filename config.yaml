@@ -1,7 +1,7 @@
 baseURL: http://yesitsbilly.com
 
 languageCode: en-us
-title: "Billy v0.49"
+title: "Billy v0.50"
 
 # Use Hugo modules to add theme
 module:
