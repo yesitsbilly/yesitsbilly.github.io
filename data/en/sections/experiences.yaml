@@ -11,6 +11,25 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Wendy's (Contract)
+    url: "https://www.wendys.com"
+    location: Remote
+    # company overview
+    overview: Working several projects, Splunk architecture and deployment, cloud infrastructure, remote OS updates.
+  positions:
+  - designation: Cloud Infrastructure Engineer
+    start: Mar 2024
+    end: 
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design, deploy, and implement Splunk infrastructure
+    - Creating Splunk dashboards/monitoring
+    - Remote OS update, Centos 7.0 to Rocky Linux 9.0
+    - Updating/maintaining legacy infrastructure
+    
+- company:
     name: PNC Bank (Contract)
     url: "https://www.pncbank.com"
     location: Remote
