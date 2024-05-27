@@ -27,8 +27,9 @@ experiences:
     - Design, deploy, and implement Splunk infrastructure
     - Creating Splunk dashboards/monitoring
     - Remote OS update, Centos 7.0 to Rocky Linux 9.0
+    - Redesign/deployment of cloud infrastructure
     - Updating/maintaining legacy infrastructure
-    
+
 - company:
     name: PNC Bank (Contract)
     url: "https://www.pncbank.com"
