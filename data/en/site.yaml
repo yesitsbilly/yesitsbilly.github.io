@@ -22,7 +22,7 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: Billy v0.50
+  title: Billy v0.51
   type: website
   description: About, Resume, Blog.
   image: images/author/profile.png
