@@ -13,7 +13,7 @@ section:
 skills:
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Linux administrator and systems engineer for more than 20 years. Managed bare metal, virtual, and cloud servers in environments of several hundred to tens of thousands of servers. Comfortable writing large, complex shell scripts in Bash and Korn shells."
+  summary: "Linux administrator and systems engineer for more than 23 years. Managed bare metal, virtual, and cloud servers in environments of several hundred to tens of thousands of servers. Comfortable writing large, complex shell scripts in Bash and Korn shells."
 
 - name: DevOps
   logo: /images/sections/skills/devops.png
