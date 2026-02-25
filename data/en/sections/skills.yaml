@@ -21,7 +21,7 @@ skills:
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud-computing.png
-  summary: "Years of Experience with all three of the major cloud platfortms, AWS, GCP, and Azure. I have experience building infrastructure from scratch, maintaining and expanding large environments, and migrating from physical to cloud and migrating from one cloud platform to another. Years of experience per vendor: AWS 6 years, Azure 5 years, GCP 2 years"
+  summary: "Years of Experience with all three of the major cloud platfortms, AWS, GCP, and Azure. I have experience building infrastructure from scratch, maintaining and expanding large environments, and migrating from physical to cloud and migrating from one cloud platform to another. Years of experience per vendor: AWS 8 years, Azure 5 years, GCP 4 years"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
