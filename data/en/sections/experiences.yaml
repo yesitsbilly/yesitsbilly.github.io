@@ -15,7 +15,7 @@ experiences:
     url: "https://www.ally.com"
     location: Remote
     # company overview
-    overview: Working with multiple application teams to migrate apps Nutanix platform, implementing IaC via Terraform/Ansible
+    overview: Working with multiple application teams to migrate apps to Nutanix platform, implementing IaC via Terraform/Ansible
   positions:
   - designation: Enablement Engineer
     start: June 2026
@@ -25,7 +25,7 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Deploy initial Nutanix infrastructure for app migrations
-    - Work with application development teams to move apps into Nutanix
+    - Work with application development teams to plan move of apps into Nutanix
     - Walk application teams through processes of deploying apps into Nutanix via IaC
     - Terraform, Nutanix Lead and SME for migration/automation project
 
