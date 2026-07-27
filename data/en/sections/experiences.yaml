@@ -10,6 +10,25 @@ section:
 
 # Your experiences
 experiences:
+  - company:
+    name: Ally Bank (Contract)
+    url: "https://www.ally.com"
+    location: Remote
+    # company overview
+    overview: Working with multiple application teams to migrate apps Nutanix platform, implementing IaC via Terraform/Ansible
+  positions:
+  - designation: Enablement Engineer
+    start: June 2026
+    end:
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Deploy initial Nutanix infrastructure for app migrations
+    - Work with application development teams to move apps into Nutanix
+    - Walk application teams through processes of deploying apps into Nutanix via IaC
+    - Terraform, Nutanix Lead and SME for migration/automation project
+
 - company:
     name: Wendy's (Contract)
     url: "https://www.wendys.com"
