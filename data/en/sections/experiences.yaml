@@ -10,7 +10,7 @@ section:
 
 # Your experiences
 experiences:
-  - company:
+- company:
     name: Ally Bank (Contract)
     url: "https://www.ally.com"
     location: Remote
